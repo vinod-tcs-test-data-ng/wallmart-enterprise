@@ -24,12 +24,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.35.221:8081/repository/wallmart-enterprise-release/</url>
+	      <url>http://3.110.204.182:8081/repository/wallmart-enterprise-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.35.221:8081/repository/wallmart-enterprise-snapshot/</url>
+	      <url>http://3.110.204.182:8081/repository/wallmart-enterprise-snapshot/</url>
 	    </snapshotRepository>
 </distributionManagement>
 
